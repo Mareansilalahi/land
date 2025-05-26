@@ -552,7 +552,7 @@
                     
                     
                     <!-- Logo Website (bisa diganti) -->
-                    <img src="https://garudajitu.gay/assets/img/cbp/logo.png?v=lezqcfdp70h2gjeipf2x" alt="Point Blank Logo" class="website-logo" id="website-logo">
+                    <img src="[https://garudajitu.gay/assets/img/cbp/logo.png?v=lezqcfdp70h2gjeipf2x](https://garudajitu.gay/assets/img/cbp/logo.png?v=lezqcfdp70h2gjeipf2x)" alt="Point Blank Logo" class="website-logo" id="website-logo">
                 </div>
                 
                 <!-- Hamburger Menu untuk Mobile -->
